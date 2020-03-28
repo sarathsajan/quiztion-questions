@@ -30,7 +30,11 @@ Questions for 'Quiztion' competition
     >> c. Nvidia RTX
     d. Microsoft Azure
 
-10. This product was developed by C-DAC in 1991 in response to USA's denial to provide license to India for a particular technology. What was the product developed and to what technology did it belong
+10. This product was developed by C-DAC in response to USA's denial to provide license to India for a particular technology. What was the product developed and to what technology did it belong?
+    a. GSLV, cryogenic engine
+    b. Aryabhatta, satellite
+    >> c. PARAM, supercomputer
+    d. INS Vikramaditya, aircraft carrier
 
 11. __________ is a direct energy weapon being jointly developed by the DRDO and BARC to destroy incoming missiles. What is the name of this weapon?
     a. BrahMos
@@ -43,3 +47,9 @@ Questions for 'Quiztion' competition
     b. VSNL
     c. AFNET
     >> d. ERNET
+    
+13. In the popular Indian TV show Shaktimaan, for which fictional newspaper organisation does the character named Pandit Gangadhar Vidhyadhar Mayadhar Omkarnath Shastri work for?
+    a. Bharat Samachar
+    b. Dainik Bhaskar
+    >> c. Aaj Ki Aawaz
+    d. Navbharat Times
