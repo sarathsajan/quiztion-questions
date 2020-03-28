@@ -9,7 +9,6 @@ questions for 'Quiztion' competition
 
 ## 4. In the Realm of Estates(Social Heirarchy of Power), what is considered as the Fifth Estate?
   a. Clergy
-  
   b. Commoners
   #### c. Internet and Social Media
   d. Mainstream Journalism
