@@ -21,4 +21,25 @@ Questions for 'Quiztion' competition
     b. Comma AI
     c. FIFA
     d. Konami
+
 8. bheem
+
+9. Which platform enables the real-time simulation of light rays in games?
+    a. Nvidia Tegra
+    b. Google Stadia
+    >> c. Nvidia RTX
+    d. Microsoft Azure
+
+10. This product was developed by C-DAC in 1991 in response to USA's denial to provide license to India for a particular technology. What was the product developed and to what technology did it belong
+
+11. __________ is a direct energy weapon being jointly developed by the DRDO and BARC to destroy incoming missiles. What is the name of this weapon?
+    a. BrahMos
+    b. RLV-TD
+    c. HAL Tejas
+    >> d. KALI
+    
+12. Which organisation initially built the infrastructure and the computing networks to bring Internet to India?
+    a. BSNL
+    b. VSNL
+    c. AFNET
+    >> d. ERNET
