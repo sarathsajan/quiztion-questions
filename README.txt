@@ -9,9 +9,16 @@ Questions for 'Quiztion' competition
     >> c. Internet and Social Media
     d. Mainstream Journalism
 5. TPB
-6. Which among the following is the virus that was specifically built to cripple the Iranian nuclear program?
-    a. Creeper
-    b. WannaCry
-    c. Stuxnet
-7. Which company has "a cat with 5 octopus-like arms" as their mascot?
-    a.
+
+6. Who is considered as the creator of the Stuxnet
+    a. Sergey Ulasen
+    >> b. Equation Group
+    c. Anonymous
+    d. Julian Assange
+
+7. To what will you associate "a cat with 5 octopus-like arms" with?
+    >> a. Github
+    b. Comma AI
+    c. FIFA
+    d. Konami
+8. bheem
