@@ -42,7 +42,11 @@ Questions for 'Quiztion' competition
     >> c. Github
     d. Konami
 
-08. bheem
+08. Which animation studio produces one of the most popular Indian animated children's show which showcases the adventures of an orange dhothi clad boy who shares the same name as one of the sons of Pandavas?
+    a. Walt Disney Company India
+    b. Pogo TV
+    >> c. Green Gold Animations
+    d. Toonz Animation India
 
 09. Which platform enables the real-time simulation of light rays in games?
     a. Nvidia Tegra
@@ -87,8 +91,8 @@ Questions for 'Quiztion' competition
     d. Mahim
 
 16. To what technology would you associate the name Satoshi Nakamoto with?
-    a. Japan Aerospace Exploration Agency
-    b. Burj Khalifa
+    a. Self-driving Cars
+    b. Artificial Neural Network
     >> c. Blockchain
     d. 3D printing
 
@@ -97,3 +101,5 @@ Questions for 'Quiztion' competition
     b. Baahubali 2: The Conclusion
     c. Bajrangi Bhaijaan
     d. PK
+
+18.
