@@ -62,3 +62,9 @@ Questions for 'Quiztion' competition
     >> b. Trombay
     c. Worli
     d. Mahim
+
+16. This project was started as a special-purpose chess playing supercomputer that later evolved into Deep Blue and went on to beat the then world chess champion Garry Kasparov. What was this project known as?
+    a. AlphaGo
+    >> b. ChipTest
+    c. WChess
+    d. Stockfish
