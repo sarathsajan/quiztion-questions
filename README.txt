@@ -24,7 +24,7 @@ Questions for 'Quiztion' competition
     >> c. Internet and Social Media
     d. Mainstream Journalism
     
-05. TPB
+05. On 2003Gottfrid Svartholm and Fredrik Neij
 
 06. Who is considered as the creator of the Stuxnet
     a. Sergey Ulasen
@@ -70,7 +70,7 @@ Questions for 'Quiztion' competition
     >> c. Aaj Ki Aawaz
     d. Navbharat Times
     
-14. Gravitational waves
+14. IndIGO
 
 15. Which among the following does not belong to the original Seven Islands of Bombay?
     a. Colaba
