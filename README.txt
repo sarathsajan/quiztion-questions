@@ -8,6 +8,7 @@ Questions for 'Quiztion' competition
     b. Commoners
     >> c. Internet and Social Media
     d. Mainstream Journalism
+    
 5. TPB
 
 6. Who is considered as the creator of the Stuxnet
@@ -17,9 +18,9 @@ Questions for 'Quiztion' competition
     d. Julian Assange
 
 7. To what will you associate "a cat with 5 octopus-like arms" with?
-    >> a. Github
+    a. Super Mario
     b. Comma AI
-    c. FIFA
+    >> c. Github
     d. Konami
 
 8. bheem
@@ -53,3 +54,11 @@ Questions for 'Quiztion' competition
     b. Dainik Bhaskar
     >> c. Aaj Ki Aawaz
     d. Navbharat Times
+    
+14. Gravitational waves
+
+15. Which among the following does not belong to the original Seven Islands of Bombay?
+    a. Colaba
+    >> b. Trombay
+    c. Worli
+    d. Mahim
