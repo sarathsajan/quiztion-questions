@@ -1,37 +1,47 @@
 Questions for 'Quiztion' competition
 
-1. deepblue
-2. pewdiepie
-3. elonmusk
-4. In the Realm of Estates(Social Hierarchy of Power), what is considered as the Fifth Estate?
+01. This project was started as a special-purpose chess playing supercomputer that later evolved into Deep Blue and went on to beat the then world chess champion Garry Kasparov. What was this project known as?
+    a. AlphaGo
+    >> b. ChipTest
+    c. WChess
+    d. Stockfish
+    
+02. This Indian music label started its operation in 1983 by selling pirated copies of songs. Their YouTube channel overtook Pewdiepie as the most subscribed Youtube channel. Which is this private company that trades under the name T-Series?
+    a. Saregama India Ltd
+    b. Zee Entertainment Enterprises Ltd
+    >> c. Super Cassettes Industries Pvt Ltd
+    d. Satyam Audios
+    
+03. elonmusk
+04. In the Realm of Estates(Social Hierarchy of Power), what is considered as the Fifth Estate?
     a. Clergy
     b. Commoners
     >> c. Internet and Social Media
     d. Mainstream Journalism
     
-5. TPB
+05. TPB
 
-6. Who is considered as the creator of the Stuxnet
+06. Who is considered as the creator of the Stuxnet
     a. Sergey Ulasen
     >> b. Equation Group
     c. Anonymous
     d. Julian Assange
 
-7. To what will you associate "a cat with 5 octopus-like arms" with?
+07. To what will you associate "a cat with 5 octopus-like arms" with?
     a. Super Mario
     b. Comma AI
     >> c. Github
     d. Konami
 
-8. bheem
+08. bheem
 
-9. Which platform enables the real-time simulation of light rays in games?
+09. Which platform enables the real-time simulation of light rays in games?
     a. Nvidia Tegra
     b. Google Stadia
     >> c. Nvidia RTX
     d. Microsoft Azure
 
-10. This product was developed by C-DAC in response to USA's denial to provide license to India for a particular technology. What was the product developed and to what technology did it belong?
+10. This product was developed by C-DAC in response to USA's denial to provide license to India for a particular technology. What was the product and to what technology did it belong?
     a. GSLV, cryogenic engine
     b. Aryabhatta, satellite
     >> c. PARAM, supercomputer
@@ -63,8 +73,4 @@ Questions for 'Quiztion' competition
     c. Worli
     d. Mahim
 
-16. This project was started as a special-purpose chess playing supercomputer that later evolved into Deep Blue and went on to beat the then world chess champion Garry Kasparov. What was this project known as?
-    a. AlphaGo
-    >> b. ChipTest
-    c. WChess
-    d. Stockfish
+16.
