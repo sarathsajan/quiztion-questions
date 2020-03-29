@@ -91,3 +91,9 @@ Questions for 'Quiztion' competition
     b. Burj Khalifa
     >> c. Blockchain
     d. 3D printing
+
+17. Which is the highest grossing Indian film?
+    >> a. Dangal
+    b. Baahubali 2: The Conclusion
+    c. Bajrangi Bhaijaan
+    d. PK
