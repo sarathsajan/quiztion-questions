@@ -24,8 +24,12 @@ Questions for 'Quiztion' competition
     >> c. Internet and Social Media
     d. Mainstream Journalism
     
-05. On 2003Gottfrid Svartholm and Fredrik Neij
-
+05. KSUM is the central agency of the Govt. of Kerala for the development in which area?
+    >> a. Entrepreneurship
+    b. Health Care
+    c. Road Network
+    d. Higher Education
+    
 06. Who is considered as the creator of the Stuxnet
     a. Sergey Ulasen
     >> b. Equation Group
@@ -70,7 +74,11 @@ Questions for 'Quiztion' competition
     >> c. Aaj Ki Aawaz
     d. Navbharat Times
     
-14. IndIGO
+14. National Waterway 1 is the longest waterway in India. Which among the following state is not connected by NW-1?
+    a. Uttar Pradesh
+    >> b. Orissa
+    c. Jharkhand
+    d. West Bengal
 
 15. Which among the following does not belong to the original Seven Islands of Bombay?
     a. Colaba
