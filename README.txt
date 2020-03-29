@@ -6,13 +6,18 @@ Questions for 'Quiztion' competition
     c. WChess
     d. Stockfish
     
-02. This Indian music label started its operation in 1983 by selling pirated copies of songs. Their YouTube channel overtook Pewdiepie as the most subscribed Youtube channel. Which is this private company that trades under the name T-Series?
+02. This Indian music label started its operation in 1983 by selling pirated copies of songs. Recently their YouTube channel overtook PewDiePie as the most subscribed Youtube channel. Which is this private company otherwise popularly known as T-Series?
     a. Saregama India Ltd
     b. Zee Entertainment Enterprises Ltd
     >> c. Super Cassettes Industries Pvt Ltd
     d. Satyam Audios
     
-03. elonmusk
+03. Which among the following company is not related to Elon Musk?
+    >> a. Rocket Lab
+    b. The Boring Company
+    c. Neuralink Corporation
+    d. Zip2
+
 04. In the Realm of Estates(Social Hierarchy of Power), what is considered as the Fifth Estate?
     a. Clergy
     b. Commoners
@@ -73,4 +78,8 @@ Questions for 'Quiztion' competition
     c. Worli
     d. Mahim
 
-16.
+16. To what technology would you associate the name Satoshi Nakamoto with?
+    a. Japan Aerospace Exploration Agency
+    b. Burj Khalifa
+    >> c. Blockchain
+    d. 3D printing
