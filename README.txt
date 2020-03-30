@@ -102,4 +102,10 @@ Questions for 'Quiztion' competition
     c. Bajrangi Bhaijaan
     d. PK
 
-18.
+18. Who first built and used rockets as a military weapon?
+    a. East India Company
+    >> b.  Mysorean army (Tipu Sultan)
+    c. Genghis Khan
+    d. Rani of Jhansi
+
+19. 
