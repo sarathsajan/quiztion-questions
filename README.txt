@@ -108,4 +108,17 @@ Questions for 'Quiztion' competition
     c. Genghis Khan
     d. Rani of Jhansi
 
-19. 
+19. To what would you associate Sandy Bridge, Coffee Lake with?
+    a. Butterflies
+    b. Missiles
+    >> c. Processors
+    d. Tourist Attractions
+    
+20. On April 23rd 2005 Jawed uploaded a video of him talking about an animal in a zoo. What was that animal?
+    a. Tiger
+    b. Gorilla
+    >> c. Elephant
+    d. Bear
+
+
+
